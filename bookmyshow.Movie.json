@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "648814e4080c3bf7f177c6b6"
+  },
+  "name": "Movie1",
+  "genre": "Drama",
+  "language": "Hindi",
+  "description": "Movie1 Description.",
+  "image_address": "https://www.filmibeat.com/fanimg/movie/19457/adipurush-photos-images-2023040615264200.jpg",
+  "movieId": "MV_1001",
+  "video_URL": "https://www.youtube.com/embed/scNmYjoR-qM",
+  "start_date": "27-June-2023",
+  "theaters":[{"theaterid":"101","name":"Alexa","address":"James Street","seatingcapacity":"500",
+		"showtimings":[{"showid":"01","starttime":"9:30AM","endtime":"12:00PM"},{"showid":"02","starttime":"12:30AM","endtime":"2:00PM"}]},
+		      {"theaterid":"102","name":"Devi70MM","address":"Hitech City","seatingcapacity":"600",
+		"showtimings":[{"showid":"01","starttime":"9:30AM","endtime":"12:00PM"},{"showid":"02","starttime":"12:30AM","endtime":"2:00PM"}]}]
+},
+{
+  "_id": {
+    "$oid": "648816b7080c3bf7f177c6b7"
+  },
+  "name": "Movie2",
+  "genre": "Family",
+  "language": "English",
+  "description": "Movie2 Description."
+},
+{
+  "_id": {
+    "$oid": "648816b7080c3bf7f177c6b8"
+  },
+  "name": "Movie3",
+  "genre": "Horror",
+  "language": "English",
+  "description": "Movie3 Description.",
+ "theaters":[{"theaterid":"103","name":"PVR","address":"PVR Street","seatingcapacity":"400",
+		"showtimings":[{"showid":"01","starttime":"9:30AM","endtime":"12:00PM"},{"showid":"02","starttime":"12:30AM","endtime":"2:00PM"}]},
+		      {"theaterid":"104","name":"Cineplex","address":"Hitech City","seatingcapacity":"700",
+		"showtimings":[{"showid":"01","starttime":"9:30AM","endtime":"12:00PM"},{"showid":"02","starttime":"12:30AM","endtime":"2:00PM"}]}]
+},
+{
+  "_id": {
+    "$oid": "648816b7080c3bf7f177c6b9"
+  },
+  "name": "Movie7",
+  "genre": "Comedy",
+  "language": "Hindi",
+  "description": "Movie4 Description."
+},
+{
+  "_id": {
+    "$oid": "648ab441b10d426c7cf991c7"
+  },
+  "name": "Movie4",
+  "genre": "Family",
+  "language": "English",
+  "description": "Movie2 Description."
+},
+{
+  "_id": {
+    "$oid": "648ab441b10d426c7cf991c8"
+  },
+  "name": "Movie5",
+  "genre": "Horror",
+  "language": "English",
+  "description": "Movie3 Description."
+},
+{
+  "_id": {
+    "$oid": "648ab441b10d426c7cf991c9"
+  },
+  "name": "Movie6",
+  "genre": "Comedy",
+  "language": "Hindi",
+  "description": "Movie4 Description.",
+"theaters":[{"theaterid":"105","name":"AMB","address":"AMB Street","seatingcapacity":"650",
+		"showtimings":[{"showid":"01","starttime":"9:30AM","endtime":"12:00PM"},{"showid":"02","starttime":"12:30AM","endtime":"2:00PM"}]},
+		      {"theaterid":"106","name":"AAA","address":"Hitech City","seatingcapacity":"5500",
+		"showtimings":[{"showid":"01","starttime":"9:30AM","endtime":"12:00PM"},{"showid":"02","starttime":"12:30AM","endtime":"2:00PM"}]}]
+},
+{
+  "_id": {
+    "$oid": "64bba55e87ab993d22bbc0fa"
+  },
+  "ScreenDate": "new Date(2023,08,01"
+}]
